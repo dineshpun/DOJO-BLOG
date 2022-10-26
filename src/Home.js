@@ -10,7 +10,7 @@ const Home = () => {
         setAge('30');
     }
     const handleClickAgain=(name,e)=>{
-        console.log('Hello '+name, e.target);
+        console.log('Hello  hello'+name, e.target);
     }
     return ( 
         <div className="home">
